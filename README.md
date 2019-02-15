@@ -1,4 +1,4 @@
-# pdf-meta-editor Edita losmetadatos de un PDF
+# pdf-meta-editor Edita los metadatos de un PDF
 
 [![version (npm)](https://img.shields.io/npm/v/pdf-meta-editor.svg?style=flat-square)](https://www.npmjs.com/package/pdf-meta-editor)
 [![license (GitHub)](https://img.shields.io/github/license/Scriptim/pdf-meta-editor.svg?longCache=true&style=flat-square)](https://github.com/Scriptim/pdf-meta-editor/blob/master/LICENSE.md)
@@ -11,15 +11,15 @@ Cliente Interactivo para editar los metadatos de ficheros PDF
 
 <https://www.npmjs.com/package/pdf-meta-editor>
 
-## Installation
+## Instalación
 
     sudo npm install -g pdf-meta-editor
 
-## Usage
+## Uso
 
     pdf-meta-editor FILENAME
 
-### Command Line Arguments
+### Argumentos desde Línea de Comandos
 
 #### `-h/--help`
 
@@ -39,13 +39,13 @@ Show this help page.
 
 #### `-v/--version`
 
-Print the currently installed version.
+Imprime la versión actual instalada.
 
 #### `-p/--print`
 
-Print the metadata instead of editing it.
+Muestra la información de los metadatos sin capacidad de edición.
 
-##### Example
+##### Ejemplo
 
     $ pdf-meta-editor Demo.pdf --print
     Printing metadata of file Demo.pdf
@@ -70,6 +70,6 @@ Print the metadata instead of editing it.
 
 #### `-o/--overwrite`
 
-Overwrite the original file.
+Sobreescribe el fichero original
 
-If not specified, the original file is retained by default.
+Si no se especifica, el archivo original se conserva de forma predeterminada.
