@@ -23,7 +23,7 @@ Cliente Interactivo para editar los metadatos de ficheros PDF
 
 #### `-h/--help`
 
-Show this help page.
+Mostrar esta página de ayuda
 
     $ pdf-meta-editor --help
     pdf-meta-editor
