@@ -5,7 +5,7 @@
 [![downloads (npm)](https://img.shields.io/npm/dt/pdf-meta-editor.svg?style=flat-square)](https://www.npmjs.com/package/pdf-meta-editor)
 [![dependencies (libraries.io)](https://img.shields.io/librariesio/release/npm/pdf-meta-editor.svg?style=flat-square)](https://libraries.io/npm/pdf-meta-editor)
 
-Interactive cli for changing metadata of pdf files.
+Cliente Interactivo para editar los metadatos de ficheros PDF
 
 ![Demo](demo.gif "Demo")
 
