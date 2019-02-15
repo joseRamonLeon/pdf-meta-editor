@@ -1,4 +1,4 @@
-# pdf-meta-editor
+# pdf-meta-editor Edita losmetadatos de un PDF
 
 [![version (npm)](https://img.shields.io/npm/v/pdf-meta-editor.svg?style=flat-square)](https://www.npmjs.com/package/pdf-meta-editor)
 [![license (GitHub)](https://img.shields.io/github/license/Scriptim/pdf-meta-editor.svg?longCache=true&style=flat-square)](https://github.com/Scriptim/pdf-meta-editor/blob/master/LICENSE.md)
